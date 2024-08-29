@@ -1,1 +1,1 @@
-# Survival-Prediction-on-Titanic
+# Predicting-Survival-of-Passengers-on-Titanic
